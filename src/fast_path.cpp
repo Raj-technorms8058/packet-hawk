@@ -1,5 +1,6 @@
 #include "fast_path.h"
 #include <iostream>
+#include <algorithm>
 #include <sstream>
 #include <iomanip>
 
